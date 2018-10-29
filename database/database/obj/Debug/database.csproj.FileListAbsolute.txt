@@ -1,0 +1,12 @@
+E:\cse904\database\database\bin\Debug\Database1.mdf
+E:\cse904\database\database\bin\Debug\Database1_log.ldf
+E:\cse904\database\database\bin\Debug\database.exe.config
+E:\cse904\database\database\bin\Debug\database.exe
+E:\cse904\database\database\bin\Debug\database.pdb
+E:\cse904\database\database\obj\Debug\database.Properties.Resources.resources
+E:\cse904\database\database\obj\Debug\database.csproj.GenerateResource.cache
+E:\cse904\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+E:\cse904\database\database\obj\Debug\database.exe
+E:\cse904\database\database\obj\Debug\database.pdb
+E:\cse904\database\database\obj\Debug\database.Form1.resources
+E:\cse904\database\database\obj\Debug\database.csprojAssemblyReference.cache
